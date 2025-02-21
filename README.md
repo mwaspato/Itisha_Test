@@ -61,7 +61,7 @@ test.describe('Login Scenarios', () => { ... });
 
 This groups both valid and invalid login tests under a single test suite.
 
-📝 Test Case Details
+Test Case Details
 
 
 
